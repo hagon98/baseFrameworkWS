@@ -1,2 +1,1 @@
-# baseFrameworkWS
-phpWSREST
+# baseFramework
